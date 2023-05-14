@@ -1,123 +1,27 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# DATA SCIENCE AND MACHINE LEARNING Portfolio
 
 
-### Definition lists can be used with HTML syntax.
+## Heart Disease Prediction
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Machine learning can be used to detect whether a person is suffering from a cardiovascular disease by considering certain attributes like chest pain, cholesterol level, age of the person and some other attributes.
+[![View on GitHub](https://github.com/Santhoshkumargaja/DataScience/blob/main/2_Heart%2BDisease%2BPrediction.ipynb)
 
-```
-The final element.
-```
+## Logistic Regression for Telecom churn
+
+
+In telecommunication the customers churning very frequently. As the market in telecom is fiercely competitive, in that case, companies proactively have to determine the customers churn by analyzing their behavior and try to put effort and money in retaining the customers. In this proposed model, two machine-learning techniques were used for predicting customer churn Logistic regression and Logit Boost. 
+[![View on GitHub](https://github.com/Santhoshkumargaja/DataScience/blob/main/Logistic%20Regression%20for%20Telecom%20Churn%20Data%20Model_Building.ipynb)
+
+
+## Housing Case Study
+Multiple regression is a statistical technique that can be used to analyze the relationship between a single dependent variable and several independent variables. 
+These includes; dependent variable(y)-house price and Independent variable (x’s) - house type, number of rooms, internal size and distance.
+[![View on GitHub](https://github.com/Santhoshkumargaja/DataScience/blob/main/Housing%2BCase%2BStudy%2B--%2BTree%2BModels.ipynb)
+
+
+## K-Mode Clustering on Bank Marketing Dataset
+K-Mode clustering is a clustering algorithm used for categorical data, which is suitable for analyzing datasets with discrete attributes. In this case, K-Mode clustering can be applied to the Bank Marketing Dataset to identify groups of customers with similar attributes.
+This information can then be used to design more targeted and effective marketing strategies, ultimately leading to higher conversion rates and revenue for the bank.
+[![View on GitHub](https://github.com/Santhoshkumargaja/DataScience/blob/main/K-Mode%2BBank%2BMarketing.ipynb)
+
