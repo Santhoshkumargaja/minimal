@@ -1,6 +1,21 @@
-title: Minimal theme
+title: <p align="center"> Gaja Santhosh Kumar </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/SanthoshResume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/santhoshkumargaja/">LinkedIn</a> |
+  <a href="https://github.com/Santhoshkumargaja">GitHub</a>
+  
+  <br>   
+  I'm working on Data Engineering, Big Data, Machine learning & NLP related problems.
+  Disciplined and insightful data analyst with 4+ years of experience in analysing business processes.
+  Having over 6+ years of Professional experience in the IT industry, working on Power BI Desktop, Power BI Service, Tableau and SQL server.
+  Working with RMSI,India as Business Analyst.
+  
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
