@@ -6,7 +6,6 @@
 
 Machine learning can be used to detect whether a person is suffering from a cardiovascular disease by considering certain attributes like chest pain, cholesterol level, age of the person and some other attributes.
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Santhoshkumargaja/DataScience/blob/main/2_Heart%2BDisease%2BPrediction.ipynb)
-
 <center><img src="assets/img/heart.jpg"/></center>
 
 ## Logistic Regression for Telecom churn
