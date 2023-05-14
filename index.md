@@ -7,7 +7,7 @@
 Machine learning can be used to detect whether a person is suffering from a cardiovascular disease by considering certain attributes like chest pain, cholesterol level, age of the person and some other attributes.
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Santhoshkumargaja/DataScience/blob/main/2_Heart%2BDisease%2BPrediction.ipynb)
 
-<center><img src="images/heart.jpg"/></center>
+<center><img src="img/heart.jpg"/></center>
 
 ## Logistic Regression for Telecom churn
 
@@ -20,7 +20,7 @@ In telecommunication the customers churning very frequently. As the market in te
 Multiple regression is a statistical technique that can be used to analyze the relationship between a single dependent variable and several independent variables. 
 These includes; dependent variable(y)-house price and Independent variable (x’s) - house type, number of rooms, internal size and distance.
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Santhoshkumargaja/DataScience/blob/main/Housing%2BCase%2BStudy%2B--%2BTree%2BModels.ipynb)
-<center><img src="images/Spanish-Property-value-growth.jpg"/></center>
+<center><img src="img/Spanish-Property-value-growth.jpg"/></center>
 
 
 
@@ -28,6 +28,6 @@ These includes; dependent variable(y)-house price and Independent variable (x’
 K-Mode clustering is a clustering algorithm used for categorical data, which is suitable for analyzing datasets with discrete attributes. In this case, K-Mode clustering can be applied to the Bank Marketing Dataset to identify groups of customers with similar attributes.
 This information can then be used to design more targeted and effective marketing strategies, ultimately leading to higher conversion rates and revenue for the bank.
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Santhoshkumargaja/DataScience/blob/main/K-Mode%2BBank%2BMarketing.ipynb)
-<center><img src="images/data-analytics.jpg"/></center>
+<center><img src="img/data-analytics.jpg"/></center>
 
 
